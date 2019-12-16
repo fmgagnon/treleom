@@ -17,3 +17,5 @@ Ce _patch_ Pure Data traite un signal sonore (originalement pour la guitare) en 
 - Le bouton **zéro** remet la progression à zéro.
 - La **durée totale** est réglée en secondes.
 - Les réglages des **tempi (départ et cible)** sont réglés en bpm.
+- La barre horizontale est un indicateur de progression.
+- L'interrupteur *croissant* permet d'activer le mode croissant, qui débute avec un tremolo agressif qui arrête progressivement sur un volume constant (1).
